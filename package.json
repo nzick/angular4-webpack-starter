@@ -1,5 +1,5 @@
 {
-  "name": "angular4-webpack-seed",
+  "name": "angular4-webpack-starter",
   "version": "0.0.1",
   "description": "Angular4 Webpack Starter",
   "main": "index.ts",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nzick/angular4-webpack-seed/"
+    "url": "https://github.com/nzick/angular4-webpack-starter/"
   },
   "license": "MIT",
   "dependencies": {

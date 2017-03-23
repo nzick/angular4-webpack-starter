@@ -8,7 +8,7 @@ describe('App', () => {
 
   it('should have a title', () => {
     let subject = browser.getTitle();
-    let result  = 'Angular 4 Webpack Seed Project';
+    let result  = 'Angular 4 Webpack Starter Project';
     expect(subject).toEqual(result);
   });
 
