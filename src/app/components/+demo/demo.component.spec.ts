@@ -34,7 +34,7 @@ describe('DemoComponent', () => {
     el = de.nativeElement;
     let styles = window.getComputedStyle(el);
     expect(de).not.toBeNull();
-    expect(styles.fontSize).toEqual('18,72px');
+    expect(styles.fontSize).toEqual('18px');
   });
 
 });
