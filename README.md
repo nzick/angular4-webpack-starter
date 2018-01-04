@@ -1,4 +1,4 @@
-# Angular 4 Webpack Starter ![coverage-shield-badge-1](https://img.shields.io/badge/coverage-100%25-brightgreen.svg) [![Build Status](https://travis-ci.org/nzick/angular4-webpack-starter.svg?branch=master)](https://travis-ci.org/nzick/angular4-webpack-starter)
+# Angular Webpack Starter ![coverage-shield-badge-1](https://img.shields.io/badge/coverage-100%25-brightgreen.svg) [![Build Status](https://travis-ci.org/nzick/angular4-webpack-starter.svg?branch=master)](https://travis-ci.org/nzick/angular4-webpack-starter)
 
 This `angular` starter kit contains everything you need to start building a robust app.
 
